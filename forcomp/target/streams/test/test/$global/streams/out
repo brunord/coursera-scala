@@ -1,0 +1,38 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(forcomp.AnagramsSuite, sbt.ForkMain$AnnotatedFingerscan@5d1aeb80, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mdictionaryByOccurrences.get: eat (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mdictionaryByOccurrences.get: eat (10pts)[0m finished, took 0.551 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36msentenceOccurrences: abcd e (5pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36msentenceOccurrences: abcd e (5pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mwordAnagrams player (2pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mwordAnagrams player (2pts)[0m finished, took 0.003 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mcombinations: [] (8pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mcombinations: [] (8pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36msentence anagrams: Linux rulez (10pts)[0m started[0m
+[0m[[0m[31merror[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[31msentence anagrams: Linux rulez (10pts)[0m failed: java.lang.[31mAssertionError[0m: expected:<HashSet(List(Zulu, nil, Rex), List(Rex, Uzi, null), List(rulez, Linux), List(Zulu, Rex, Lin), List(Zulu, Rex, nil), List(Rex, Lin, Zulu), List(Rex, Zulu, nil), List(Lin, Zulu, Rex), List(null, Uzi, Rex), List(Zulu, Lin, Rex), List(Linux, rulez), List(Uzi, null, Rex), List(Uzi, Rex, null), List(Lin, Rex, Zulu), List(nil, Rex, Zulu), List(nil, Zulu, Rex), List(null, Rex, Uzi), List(Rex, Zulu, Lin), List(Rex, nil, Zulu), List(Rex, null, Uzi))> but was:<HashSet(List(rue, nu, ill, Liz, null, ill, nu, in, Uzi, Unix, Lin, nil, Liz, nu, Linux), List(Linux, re, rue, lure, rule, rulez), List(ex, nu, ill, Uzi, Uri, Liz, rill, run, urn, ill, Uzi, Liz, Zulu, in, Lin, nil, null, Uzi, Uri, ill, nu, run, urn, in, Zulu, Uzi, nu, run, urn, null, Uri, nu, null, ruin, Lin, nil, Zulu, Liz, nu, run, urn, rill, nu), List(en, Zulu, ill, Uzi, Uri, Liz, rill), List(null, Uzi, re, ex, Rex, Uri, ex, re, Uzi, ex, Uzi, Uri, rue, Rex, Uzi, ire), List(Uri, nu, ex, null, ex, en, ex, nu, null, Zen, Len, Nell), List(ire, nu, Zulu, null), List(ruin, ex), List(Uzi, nu, re, ex, Rex, run, urn, ex, null, re, ex, Rex, en, re, nu, null, ex, nu, run, urn, null, rue, Rex, nu, null, Len, lure, rule, Nell), List(Rex, nu, ill, Uzi, Liz, Zulu, in, Lin, nil, null, Uzi, ill, nu, in, Zulu, Uzi, nu, null, Lin, nil, Zulu, Liz, nu), List(rein, Zulu), List(nu, ill, re, ex, rue, Rex, Uzi, re, ex, Rex, Uri, ex, Liz, re, ex, rue, Rex, lure, rule, rill, ex, re, ill, Uzi, Liz, ex, ill, Uzi, Uri, Liz, rill, rue, ill, Liz, Rex, ill, Uzi, Liz, lure, rule, Liz, rulez, Eli, lie, ire, lieu), List(liner, Zulu), List(lien, line, Neil, Nile, Zulu), List(lieu, nu, run, urn), List(run, urn, ill, ex, Uzi, ex, Liz, ex, ex, ill, Uzi, Liz, Eli, lie, lieu), List(Zen, ill, Uri, rill), List(rulez, nu, in, Unix, Lin, nil, Linux), List(rill, nu, ex, en, ex, nu, Zen), List(Unix, re, rue, lure, rule, rulez), List(Len, Zulu, Uzi, Uri, Liz), List(), List(Eli, lie, nu, run, urn, Zulu), List(Liz, nu, re, ex, rue, Rex, lure, rule, run, urn, ex, en, re, nu, ex, nu, run, urn, rue, nu, Rex, nu, Len, lure, rule, nu), List(ill, nu, re, ex, rue, Rex, run, urn, ex, en, re, nu, ex, nu, run, urn, rue, nu, Rex, nu, Zen), List(Nell, Uzi, Uri), List(Lin, nil, Zulu, re, ex, Rex, re, Zulu, ex, Zulu, rue, Rex, Zulu, lure, rule, rulez), List(urine), List(re, nu, ill, Uzi, Liz, Zulu, in, Lin, nil, null, Uzi, ill, nu, in, Zulu, Uzi, nu, null, Unix, Lin, nil, Zulu, Liz, nu, Linux), List(lure, rule, nu, Liz, in, Uzi, Unix, Lin, nil, Liz, nu, Linux), List(Zulu, in, re, ex, Rex, Lin, nil, re, ex, Rex, en, re, in, Lin, nil, ex, in, Lin, nil, Rex, in, Lin, nil, Len, Eli, lie, ire, rein, lien, line, Neil, Nile, liner), List(in, Zulu, re, ex, Rex, re, Zulu, ex, Zulu, rue, Rex, Zulu, lure, rule, rulez))>, took 0.085 sec[0m
+[0m[[0m[31merror[0m] [0m[0m    at forcomp.AnagramsSuite.sentence anagrams: Linux rulez (10pts)([35mAnagramsSuite.scala[0m:[33m90[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m    ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36msentence anagrams: Linux rulez (10pts)[0m finished, took 0.086 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36msubtract: lard - r (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36msubtract: lard - r (10pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mwordAnagrams married (2pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mwordAnagrams married (2pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36msentence anagrams: [] (10pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36msentence anagrams: [] (10pts)[0m finished, took 0.0 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mwordOccurrences: Robert (3pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mwordOccurrences: Robert (3pts)[0m finished, took 0.0 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mcombinations: abba (8pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mcombinations: abba (8pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mwordOccurrences: abcd (3pts)[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest forcomp.[33mAnagramsSuite[0m.[36mwordOccurrences: abcd (3pts)[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[31m1 failed[0m[34m, [0m[34m0 ignored[0m[34m, 11 total, 0.728s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 11 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[31merror[0m] [0m[0mFailed: Total 11, Failed 1, Errors 0, Passed 10[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	forcomp.AnagramsSuite[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

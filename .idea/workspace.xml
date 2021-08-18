@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../grpc-java" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-enricher" value="PREVIEW" />
+        <entry key="$USER_HOME$/temp/podcast-enricher" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1811" />
+    <option name="y" value="42" />
+    <option name="width" value="1680" />
+    <option name="height" value="973" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/objsets 2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../alx-job-status" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../business-dictionaries-models" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dwh-log-processing-jobs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../episode-box" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../filesyn-monitor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../meas-period" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../meas-publishers-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-access-log-enricher" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-activation-tool" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-activation-util" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-datamart" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-episode-box" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-episode-dimension-extractor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-filesync-monitor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-instream-normalizer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-media-box" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../podcast-utils" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wcm-broadcaster-meta-uploader" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wcm-datamart" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wcm-session-enricher" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wcm-spark-functions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wcm2-admin-api__msrt" value="PREVIEW" />
+        <entry key="$USER_HOME$/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/temp/dwh-log-processing-jobs" value="PREVIEW" />
+        <entry key="$USER_HOME$/temp/objsets" value="PREVIEW" />
+        <entry key="$USER_HOME$/temp/podcast-access-log-enricher" value="PREVIEW" />
+        <entry key="$USER_HOME$/temp/podcast-filesync-monitor" value="PREVIEW" />
+        <entry key="$USER_HOME$/temp/podcast-utils" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
